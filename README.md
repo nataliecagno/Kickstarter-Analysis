@@ -9,7 +9,7 @@ The purpose of this project is to show how different campaigns fared in relation
 
 ### Analysis of Outcomes Based on Launch Date
 Knowing which season or month to launch a kick starter may be a deciding factor for Louise. The data shows that the most successful campaigns were launched during late Spring/ early, whereas most unsuccessful campaigns were launched during the winter.
-category!Theater_outcomes_vs_Launch]( Theater_Outcomes_vs_Launch.png)
+category![Theater_outcomes_vs_Launch]( Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 By looking at outcomes based on goals, the data can help Louise visualize if her goal of $10,000 is over ambitious, not enough or just right. The average goal of successful Kickstarters was around $5000. The average goal of failed Kickstarters was around $10,000. 
